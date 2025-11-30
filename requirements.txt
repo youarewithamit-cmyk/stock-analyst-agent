@@ -7,3 +7,4 @@ yfinance
 duckduckgo-search
 feedparser
 llama-parse
+litellm
