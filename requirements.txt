@@ -1,0 +1,8 @@
+crewai
+langchain-groq
+streamlit
+python-dotenv
+yfinance
+duckduckgo-search
+feedparser
+llama-parse
